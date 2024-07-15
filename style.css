@@ -1,0 +1,67 @@
+*
+{
+    margin: 0;padding: 0;
+}
+nav
+{
+    display: flex;
+    justify-content: center;
+}
+.menu-sec ul li
+{
+   display: inline; 
+   padding: 20px;
+   
+}
+ul{
+    margin-left: 20%;
+}
+.first-sec h3
+{
+    margin-left: 45%;
+    
+    
+}
+.first-sec h1{
+    margin-left: 280px;
+}
+.first-sec p{
+    margin-left: 40%;
+}
+.second-sec{
+    margin-left: 20%;
+}
+.third-sec{
+    margin-left: 20%;
+}
+.fourth-sec{
+    margin-left: 20%;
+}
+.first-set{
+    margin-left: 20%;
+}
+.second-set li{
+    margin-left: 30px;
+}
+.third-set{
+    margin-left: 20%;
+}
+.fourth-set
+{
+margin-left: 500px;
+color: black;
+text-decoration: none;
+}
+footer
+{
+    background-color: black;
+    color: white;
+}
+footer p{
+    display: inline;
+}
+.five-set{
+    margin-left: 85%;
+    
+
+}
